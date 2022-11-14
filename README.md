@@ -1,4 +1,3 @@
 # trybe-repo2
 
-teste2
-outro teste
+"Este aqui é um teste do meu primeiro pull request para o github"
